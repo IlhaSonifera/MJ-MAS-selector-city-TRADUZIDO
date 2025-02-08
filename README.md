@@ -11,8 +11,8 @@ Isso é uma coleção de seletores submods feita ou atualmente mantida por u/may
 
 ## 👑 ⭑ Incluído na pasta
 
-✦ Seletores antigo do ATOMreal (máscara, acessórios de mesa)<br>
-✦ Seletores corporal<br>
+✦ Seletores antigos do ATOMreal (máscara, acessórios de mesa)<br>
+✦ Seletores corporais<br>
 ✦ Seletores de acessórios regulares<br>
 ✦ Seletores de acessórios divididos<br>
 <details><summary>✨ Clique aqui para uma lista completa de seletores:</summary> 
