@@ -57,7 +57,7 @@ Isso é uma coleção de submods seletores feita ou atualmente mantida por u/may
   * Bach
   — suporte para a permissão da tradução
 
-## 🪐 ⭑ Junte-se ao nosso Discord
+## 🪐 ⭑ Junte-se ao Discord do Mayday
 
 Estamos prontos para conversar! Venha se juntar ao nosso servidor do Discord [aqui](https://discord.gg/Tx23rczN8N).
 
