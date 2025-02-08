@@ -1,10 +1,10 @@
-#credit to my-otter-self / your-otter-friend for help with the repo, creds to raVen and (sigh) ATOM_real for original selector code to base all these on
+#créditos para my-otter-self / your-otter-friend por ajudar com o repo, créditos ao raVen e (sigh) ATOM_real pelo código de seletor original para base.
 
 init -990 python in mas_submod_utils:
     Submod(
         author="MayJay",
         name="Selector City",
-        description="A collection of selectors maintainted by u/mayday-mayjay in one area in order to utilize the submod updater. Please open an issue on the repo, or go to my submod work server if there's an issue: https://discord.gg/Tx23rczN8N ",
+        description="Uma coleção de seletores mantida por u/mayday-mayjay em uma área em ordem para utilizar o atualizador de submod. Por favor reporte um problema no repositório, ou vá para o servidor de trabalho de submods: https://discord.gg/Tx23rczN8N. Em caso de problemas com a tradução: https://discord.gg/bMPDaCVz",
         version="1.0.3",
         dependencies={},
         settings_pane=None,
