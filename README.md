@@ -11,10 +11,10 @@ Isso é uma coleção de seletores submods feita ou atualmente mantida por u/may
 
 ## 👑 ⭑ Incluído na pasta
 
-✦ ATOMreal's old selectors (máscara, acessórios de mesa)<br>
-✦ Bodymod selectors<br>
-✦ Reg acs selectors<br>
-✦ Split acs selectors<br>
+✦ Seletores antigo do ATOMreal (máscara, acessórios de mesa)<br>
+✦ Seletores corporal<br>
+✦ Seletores de acessórios regulares<br>
+✦ Seletores de acessórios divididos<br>
 <details><summary>✨ Clique aqui para uma lista completa de seletores:</summary> 
   * Seletor de máscara <br>
   * Seletor de acessórios de mesa (esquerda/direita, regular, vaso de flor)<br>
