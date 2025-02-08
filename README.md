@@ -9,7 +9,7 @@
 
 Isso é uma coleção de seletores submods feita ou atualmente mantida por u/mayday-mayjay !
 
-## 👑 ⭑ Funcionalidade
+## 👑 ⭑ Incluído na pasta
 
 ✦ ATOMreal's old selectors (máscara, acessórios de mesa)<br>
 ✦ Bodymod selectors<br>
