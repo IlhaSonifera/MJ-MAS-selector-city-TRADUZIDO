@@ -15,7 +15,7 @@ Isso é uma coleção de seletores submods feita ou mantida atualmente por u/may
 ✦ Bodymod selectors<br>
 ✦ Reg acs selectors<br>
 ✦ Split acs selectors<br>
-<details><summary>✨ Click aqui para uma lista completa de seletores:</summary> 
+<details><summary>✨ Clique aqui para uma lista completa de seletores:</summary> 
   * Seletor de máscara <br>
   * Seletor de acessórios de mesa (esquerda/direita, regular, vaso de flor)<br>
   * Seletor de mecha teimosa <br>
