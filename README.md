@@ -1,6 +1,6 @@
 <h1 align="center">⭑ ☄️🔮✒️ MAS Selector City 💡💎💫 ⭑</h1>
 <h3 align="center">"O que eu deveria usar hoje?" ~ Monika</h3>
-<p align="center">Bem vindo ao Selector City!</p>
+<p align="center">Bem-vindo ao Selector City!</p>
 <p align="center">
   <a href="https://discord.gg/Tx23rczN8N">
     <img alt="Discord server" src="https://discordapp.com/api/guilds/957814201311694870/widget.png?style=shield">
