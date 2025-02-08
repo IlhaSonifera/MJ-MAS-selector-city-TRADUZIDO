@@ -52,6 +52,10 @@ Isso é uma coleção de seletores submods por u/mayday-mayjay !
   — modelo, código seletor original
   * ATOM_real (sigh)
   — código seletor original
+  * Ilha
+  - tradutora do submod
+  * Bach
+  - Suporte para permissão da tradução  
 
 ## 🪐 ⭑ Junte-se ao nosso Discord
 
