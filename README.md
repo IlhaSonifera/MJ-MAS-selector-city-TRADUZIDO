@@ -35,7 +35,7 @@ Isso é uma coleção de seletores submods feita ou mantida atualmente por u/may
 
 ## 👑 ⭑ Como instalar?
   * Baixe na aba de lançamentos (release) e não diretamente do repositório!! <br>
-  * Abra o zip em um programa que permita isso (ex; 7zip or winRAR) <br>
+  * Abra o zip em um programa que permita isso (ex; 7zip ou winRAR) <br>
   * Mova a pasta do 'MJ-MAS-selector-city-TRADUZIDO-[release number]' para a pasta do DDLC/MAS e mescle (O ATUALIZADOR NÃO FUNCIONARÁ SE FOR MOVIDO PARA OUTRO LUGAR) <br>
   * Se você não encontrar a pasta "Submods" na pasta "game", faça uma!
   * Abra o MAS e aproveite!
