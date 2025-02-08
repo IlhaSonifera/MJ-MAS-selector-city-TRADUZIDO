@@ -7,7 +7,7 @@
   </a>
 </p>
 
-Isso é uma coleção de seletores submods feita ou mantida atualmente por u/mayday-mayjay !
+Isso é uma coleção de seletores submods feita ou atualmente mantida por u/mayday-mayjay !
 
 ## 👑 ⭑ Funcionalidade
 
