@@ -27,10 +27,10 @@ Isso é uma coleção de seletores submods feita ou atualmente mantida por u/may
   * Seletor de bracelete <br>  
   * Seletor de acessório de cabeça <br>
   * Seletor de luvas <br>
-  * table cushion selector <br>
-  * backpiece selector <br>
-  * glasses selector <br>
-  * ring selector <br>
+  * Seletor de almofada de mesa <br>
+  * Seletor de acessório traseiro <br>
+  * Seletor de óculos <br>
+  * Seletor de anel <br>
 </details>
 
 ## 👑 ⭑ Como instalar?
